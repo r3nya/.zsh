@@ -7,4 +7,4 @@ export JAVA_17_HOME=$(/usr/libexec/java_home -v17 2>/dev/null)
 export ANDROID_HOME=$HOME/Library/Android/sdk
 
 # GPG Agent
-export GPG_TTY=$(tty)
+export GPG_TTY=$TTY
