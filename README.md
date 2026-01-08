@@ -30,7 +30,7 @@ ln -s ~/.zsh/zshrc ~/.zshrc
 - Fuzzy command history search
 - Command autosuggestions
 - Syntax highlighting
-- Java version switchers (8, 11, 17)
+- Java version switchers (8, latest)
 - PATH management (Homebrew, OrbStack, Android SDK)
 
 ## Keybindings
@@ -44,5 +44,5 @@ ln -s ~/.zsh/zshrc ~/.zshrc
 
 ## Aliases
 
-- `java8`, `java11`, `java17` - Switch Java versions
+- `java8`, `javalatest` - Switch Java versions
 - `_brew_up` - Update, upgrade, and cleanup Homebrew
