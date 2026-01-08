@@ -19,3 +19,6 @@ fi
 
 # Antigravity
 path+=(~/.antigravity/antigravity/bin)
+
+# asdf
+path=("${ASDF_DATA_DIR:-$HOME/.asdf}/shims" $path)
