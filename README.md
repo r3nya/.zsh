@@ -59,3 +59,13 @@ ln -s ~/.zsh/zshrc ~/.zshrc
 
 - `java8`, `javalatest` - Switch Java versions
 - `_brew_up` - Update, upgrade, and cleanup Homebrew
+
+### Git Worktree (`gwh` for help)
+
+| Command | Description |
+|---------|-------------|
+| `gwa` | Add worktree (interactive) |
+| `gwl` | List worktrees |
+| `gwr` | Remove worktree (interactive) |
+| `gwp` | Prune stale worktree info |
+| `gwcd` | cd to worktree (fzf) |
